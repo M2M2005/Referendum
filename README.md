@@ -59,7 +59,7 @@ Ce projet m'a permis de :
 - Communication efficace avec un client pour comprendre et répondre à ses besoins
 
 ## Contributeurs
-- **Killian R. (moi)** - Product Owner
+- **Killian R.** - Product Owner
 - **Mael N.** - Scrum Master
 - **Cyprien B.** - Développeur
 - **Raphael R.** - Développeur
